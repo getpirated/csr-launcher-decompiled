@@ -1,0 +1,79 @@
+{
+  "name": "Português",
+  "code": "pt",
+
+  "title": "CSR Launcher Beta",
+
+  "nav_home": "Início",
+  "nav_inventory": "Inventário",
+  "nav_settings": "Definições",
+
+  "btn_login": "Iniciar sessão com o Discord",
+  "btn_logout": "Terminar sessão",
+  "user_unverified": "Não verificado",
+
+  "hero_title": "CSR Launcher",
+  "hero_subtitle": "Counter-Strike: Restored",
+  "btn_launch": "Jogar",
+
+  "page_inventory_title": "Inventário CS:Restored",
+  "btn_refresh": "Atualizar",
+  "inventory_count": "{count} itens",
+  "inventory_loading": "A carregar inventário...",
+  "inventory_empty_login": "Inicie sessão com o Discord para carregar o inventário",
+  "inventory_empty": "O inventário está vazio",
+  "inventory_error": "Falha ao carregar o inventário. Inicie sessão com Discord.",
+  "float_label": "Float: {value}",
+
+  "page_settings_title": "Definições",
+
+  "settings_game_folder_title": "Pasta do jogo",
+  "settings_game_folder_label": "Caminho para a pasta do CS:GO",
+  "settings_game_folder_hint": "Pasta que contém csgo.exe",
+
+  "settings_launch_title": "Arranque",
+  "settings_launch_label": "Argumentos de arranque",
+  "settings_launch_hint": "Argumentos adicionais da linha de comandos",
+
+  "settings_dpi_title": "Contornar censura",
+  "dpi_status_running": "Em execução",
+  "dpi_status_stopped": "Parado",
+  "btn_dpi_start": "Iniciar",
+  "btn_dpi_stop": "Parar",
+  "dpi_hint": "Contorna o bloqueio da Cloudflare para csrestored.fun. Requer privilégios de administrador.",
+
+  "btn_save_settings": "Guardar definições",
+  "settings_saved": "Guardado!",
+
+  "modal_update_title": "Atualização CS:Restored",
+  "btn_cancel_download": "Cancelar",
+  "btn_close": "Fechar",
+
+  "launch_checking": "A verificar ficheiros...",
+  "launch_launching": "A iniciar...",
+  "launch_no_dir": "Defina a pasta do jogo nas Definições.",
+  "launch_not_logged_in": "Tem de iniciar sessão primeiro.",
+
+  "modal_downloading": "A descarregar {count} ficheiros ({size} MB)...",
+  "modal_cancelled": "Descarga cancelada. O jogo não foi iniciado.",
+  "modal_failed": "Falha ao descarregar {failed} ficheiros",
+  "modal_success": "Atualização concluída! A iniciar...",
+  "modal_update_all_current": "Todos os ficheiros estão atualizados!",
+  "modal_download_need": "É necessário descarregar {count} ficheiros ({size} MB). A iniciar descarga...",
+  "modal_success_download": "Sucesso! {downloaded} ficheiros descarregados",
+  "modal_cancel_text": "Descarga cancelada",
+  "modal_error_check": "Falha ao verificar atualizações",
+  "modal_error_download": "Erro na descarga",
+
+  "install_not_installed_hint": "Selecione a pasta do CS:Restored",
+  "install_installed_hint": "Pasta do CS:Restored selecionada",
+  "btn_update_check": "Procurar atualizações",
+
+  "settings_language_label": "Idioma",
+  "settings_appearance_title": "Aspeto",
+  "settings_theme_label": "Tema",
+  "theme_dark": "Escuro",
+  "theme_darker": "Muito escuro",
+  "theme_blue": "Azul",
+  "theme_csgo": "CS:GO"
+}
