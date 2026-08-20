@@ -1,7 +1,7 @@
 # Security Notes - CSR Launcher JS review (2026-08-21) (made by AI slop)
 
 > [!NOTE]
-> Tl;dr - The launcher doesn't have anything RAT/malware related. If someone actually bricked their PC or got RATed, then it's probably because of game files which are downloaded from https://download.csrestored.fun/. Good luck with scanning, decompiling or reverse engineering each file...
+> Tl;dr - The launcher doesn't have anything RAT/malware related. If someone actually bricked their PC or got RATed by CS:R, then it's probably because of game files which are downloaded from https://download.csrestored.fun/. Good luck with scanning, decompiling or reverse engineering each file though...
 
 ## Verdict: No malware in JS layer (plain Electron, no obfuscation)
 Full scan of all non-node_modules JS (main.js:1, preload.js:1, src/js/app.js:1) found only expected launcher behavior.
